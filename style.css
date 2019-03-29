@@ -1,0 +1,16 @@
+.social {
+transition: all .2s ease-in-out;
+}
+
+.social:hover {
+  transform: scale(1.1);
+}
+
+.social:active {
+  transform: scale(0);
+  box-shadow: inset 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.text-dark {
+  color: black;
+}
