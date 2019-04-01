@@ -1,5 +1,7 @@
 .social {
 transition: all .2s ease-in-out;
+height: 32px;
+width: 32px;
 }
 
 .social:hover {
